@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mouad Kimdil
 - 👀 I am interested in informatics
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
